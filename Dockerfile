@@ -6,5 +6,4 @@ RUN apt-get update \
     ruby \
     ruby-dev \
  && gem update --system \
- && gem install bundler \
- && bundle install
+ && gem install bundler
