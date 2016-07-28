@@ -1,4 +1,4 @@
-FROM node:5.4.1
+FROM node:6.3.0
 
 # Ruby stuff
 RUN apt-get update \
