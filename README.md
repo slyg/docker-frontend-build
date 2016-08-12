@@ -4,10 +4,10 @@ Image I use to build client-side static files (JS, CSS) using SASS, Nodejs
 
 Provided image has `nodejs`, `ruby` and `bundler` installed for sass/compass builds.
 
-## Available tags
-- [latest](https://hub.docker.com/r/slyg/frontend-build/)
-- [6.3.0](https://hub.docker.com/r/slyg/frontend-build/)
-- [5.4.1](https://hub.docker.com/r/slyg/frontend-build/)
+## Available tags (corresponds to node version)
+- [`latest`](https://hub.docker.com/r/slyg/frontend-build/)
+- [`6.3.0`](https://hub.docker.com/r/slyg/frontend-build/)
+- [`5.4.1`](https://hub.docker.com/r/slyg/frontend-build/)
 
 ## Typical usage
 
