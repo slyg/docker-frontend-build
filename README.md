@@ -6,6 +6,8 @@ Provided image has `nodejs`, `ruby` and `bundler` installed for sass/compass bui
 
 ## Available tags
 - [latest](https://hub.docker.com/r/slyg/frontend-build/)
+- [6.3.0](https://hub.docker.com/r/slyg/frontend-build/)
+- [5.4.1](https://hub.docker.com/r/slyg/frontend-build/)
 
 ## Typical usage
 
